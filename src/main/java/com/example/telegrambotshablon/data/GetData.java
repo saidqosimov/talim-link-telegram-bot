@@ -44,7 +44,6 @@ public class GetData {
         String data =
                 "\uD83C\uDFEC TAJRIBALI XODIM KERAK\n\n" +
                         "\uD83C\uDFEC O'quv markaz: " + xodimKerak.getTrainingCenterName() +
-                        "\n\uD83D\uDCD7 Fan(lar):" + xodimKerak.getSubjects() +
                         "\n\uD83D\uDCF1 Telegram:" + xodimKerak.getUsername() +
                         "\n☎\uFE0F Aloqa: " + xodimKerak.getPhoneNumber() +
                         "\nⓂ\uFE0F Manzil: " + xodimKerak.getAddress() +
